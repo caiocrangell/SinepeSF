@@ -1,0 +1,72 @@
+@media (max-width: 540px) {
+    header img {
+        width: 100px;
+        height: 30px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #button_associe-se{
+    background-color: #f8f9fa!important;
+    font-weight: bold;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    font-size: 12px!important;
+    }
+}
+
+body{
+    margin: 0vh !important;
+    padding: 80px 0px 0px 0px!important;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    text-transform: uppercase;
+    color: black;
+    float: right;
+    width: 80vw;
+    font-size: 0.9vw;
+}
+
+#button_associe-se{
+    background-color: #ff5757;
+    font-weight: bold;
+}
+
+main .contatos_importantes{
+    background-color: #ff5757;
+    width: 100%!important;
+
+}
+
+main .contatos_importantes h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.footer-01 {
+    background: black;
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+
+}
+
+footer {
+    padding: 2em 0;
+}
+
+.footer-01 .footer-heading:after {
+    
+    background: #ff5757;
+}
+
+.footer-01 .ftco-footer-social li a {
+    background: #ff5757;
+    color: #fff;
+}
+
+.mt-5, .my-5 {
+    margin-top: 2rem !important;
+}

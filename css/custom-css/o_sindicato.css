@@ -1,0 +1,77 @@
+@media (max-width: 1200px) {
+    #button_associe-se{
+    background-color: #f8f9fa!important;
+    font-weight: bold;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    font-size: 12px!important;
+    }
+}
+
+@media (max-width: 540px) {
+    header img {
+        width: 100px;
+        height: 30px;
+    }
+}
+
+body{
+    margin: 0vh !important;
+    padding: 50px 0px 0px 0px!important;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    text-transform: uppercase;
+    color: black;
+    float: right;
+    width: 80vw;
+    font-size: 0.9vw;
+}
+
+#button_associe-se{
+    background-color: #ff5757;
+    font-weight: bold;
+}
+
+main section div .coluna_01{
+    text-align: justify;
+}
+
+main section div .coluna_01 h2{
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+main section div .coluna_02 .caixa_01{
+    background-color: #b3b3b3;
+}
+
+main section div .coluna_02 .caixa_01 h2{
+    color: #ff5757;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+}
+
+main section div .coluna_02 .caixa_01 p{
+    color: white;
+    text-align: justify;
+}
+
+main section div .coluna_02 .caixa_02{
+    background-color: #ff5757;
+}
+
+main section div .coluna_02 .caixa_02 h2{
+    font-size: 1.8rem;
+    color: white;
+    text-transform: uppercase;
+}
+
+main section div .coluna_02 .caixa_02 p{
+    color: white;
+    text-align: justify;
+}
+
+.coluna_01{
+    padding-top: 40px!important;
+}

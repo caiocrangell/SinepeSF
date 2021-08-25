@@ -1,0 +1,58 @@
+@media (max-width: 1200px) {
+    #button_associe-se{
+    background-color: #f8f9fa!important;
+    font-weight: bold;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    font-size: 12px!important;
+    }
+}
+
+@media (max-width: 540px) {
+    header img {
+        width: 100px;
+        height: 30px;
+    }
+}
+
+body{
+    margin: 0vh !important;
+    padding: 80px 0px 0px 0px!important;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    text-transform: uppercase;
+    color: black;
+    float: right;
+    width: 80vw;
+    font-size: 0.9vw;
+}
+
+#button_associe-se{
+    background-color: #ff5757;
+    font-weight: bold;
+}
+
+main .ult_noticias{
+    background-color: #b3b3b3;
+
+}
+
+main .ult_noticias h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #ff5757;
+}
+
+main .ult_noticias p{
+    text-align: center;
+    color: white;
+}
+
+main .card-body h3{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+

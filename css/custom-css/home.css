@@ -1,0 +1,196 @@
+@media (max-width: 1200px) {
+    #button_associe-se{
+    background-color: #f8f9fa!important;
+    font-weight: bold;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    font-size: 12px!important;
+}
+}
+
+@media (max-width: 540px) {
+    header img {
+        width: 100px;
+        height: 30px;
+    }
+}
+
+body{
+    margin: 0vh !important;
+    padding: 80px 0px 0px 0px!important;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    text-transform: uppercase;
+    color: black;
+    float: right;
+    width: 80vw;
+    font-size: 0.9vw;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+main .conheca{
+    background-color: #b3b3b3;
+}
+
+main .conheca .membros{
+    color: white;
+    text-align: left;
+}
+
+#button_associe-se{
+    background-color: #ff5757;
+    font-weight: bold;
+}
+
+main .conheca h1{
+    color: #ff5757;
+    text-transform: uppercase;
+}
+
+main .conheca p{
+    text-align: justify;
+    color: white;
+}
+
+main .conheca .btn-light{
+    display: inline;
+    text-align: center;
+    background-color: #ff5757;
+    border-color: #ff5757;
+    text-transform: uppercase;
+    color: white;
+    width: 10rem;
+    border-radius: 0px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+
+#botao_conheca:hover, #botao_seja_assossiado:hover, #botao_outros_contatos:hover, #botao_convencoes:hover{
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.3)!important;
+}
+
+#botao_convencoes{
+    display: inline;
+    text-align: center;
+    background-color: #ff5757;
+    border-color: #ff5757;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 0px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+
+main .fique_por_dentro{
+    background-color: white;
+}
+
+main .fique_por_dentro h2{
+    color: #ff5757;
+    text-transform: uppercase;
+}
+
+main .fique_por_dentro h3{
+    font-size: 1.2rem;
+}
+
+main .esc_associadas{
+    background-color: #ff5757;
+}
+
+main .esc_associadas h2{
+    color: white;
+    text-transform: uppercase;
+}
+
+main .esc_associadas .btn-light {
+    display: inline;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 0px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+
+main .ult_noticias{
+    background-color: #b3b3b3;
+
+}
+
+main .ult_noticias h2{
+    text-transform: uppercase;
+    color: #ff5757;
+}
+
+main .ult_noticias p{
+    color: white;
+}
+
+main .ult_noticias .box{
+    background-color: black;
+    color: black;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    
+    opacity: 1!important;
+    height: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+main .contato{
+    background-color: white;
+}
+
+main .contato h2{
+    text-align: center;
+    color: #b3b3b3;
+    text-transform: uppercase;
+}
+
+main .contato .info p{
+    text-align: center;
+    color: black;
+}
+
+main .button_others .btn-danger{
+    display: inline;
+    text-align: center;
+    background-color: #ff5757;
+    border-color: #ff5757;
+    text-transform: uppercase;
+    border-radius: 0px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+}
+
+a.emailLink:link, a.emailLink:visited, a.emailLink:hover, a.emailLink:active{
+    color: white!important;
+}
+
+.footer-01 {
+    background: black;
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+
+}
+
+footer {
+    padding: 2em 0;
+}
+
+.footer-01 .footer-heading:after {
+    
+    background: #ff5757;
+}
+
+.footer-01 .ftco-footer-social li a {
+    background: #ff5757;
+    color: #fff;
+}
+
+.mt-5, .my-5 {
+    margin-top: 2rem !important;
+}
